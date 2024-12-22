@@ -1,5 +1,9 @@
 {
   "redirects": [{ "source": "/", "destination": "/api" }],
-  "crons": []
+  "crons": [
+    {
+      
+    }
+  ]
 }
 
