@@ -1,4 +1,10 @@
 {
-  "redirects": [{ "source": "/", "destination": "/api" }]
+  "redirects": [{ "source": "/", "destination": "/api" }],
+    "crons": [
+    {
+      "path": "/api/cron",
+      "schedule": "55 14 * * *"
+    }
+  ]
 }
 
